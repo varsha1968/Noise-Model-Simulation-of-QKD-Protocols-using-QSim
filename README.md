@@ -22,11 +22,8 @@ The major objective of this proposal is to carry out comparative evaluation of q
  # Case Study -III: Simulation of QKD Protocols with 70% Depolarization noise 
 	
   
-  
-  
-  •	QASM-3 Qubit-Depolarization-DM.ipynb 
-	
- 	•	QSim-3 Qubit- Depolarization.ipynb (86122 – Param Utkarsh)
+        •	QASM-3 Qubit-Depolarization-DM.ipynb 
+	•	QSim-3 Qubit- Depolarization.ipynb (86122 – Param Utkarsh)
 	•	QASM-5 Qubit-Depolarization -DM.ipynb 
 	•	QSim-5 Qubit- Depolarization.ipynb (86169 – Param Utkarsh)
 	•	QASM-DPS-Depolarization.ipynb
